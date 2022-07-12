@@ -1,0 +1,69 @@
+id,code,service,usedInTrip,brand,model,productionYear,floorHeight,passengersDoors
+141539,1054,012-04,2871825,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+145832,1083,012-05,2864481,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141567,1174,012-11,2869275,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd cz?ciowo niskopod³ogowy,10
+145828,1079,012-13,2867239,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141566,1173,012-12,2875499,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd cz?ciowo niskopod³ogowy,10
+145754,1064,012-03,2862842,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141568,1175,012-14,2869603,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd cz?ciowo niskopod³ogowy,10
+145831,1082,012-07,2869833,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145746,1061,012-15,2870524,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141561,1168,012-08,2871134,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd cz?ciowo niskopod³ogowy,10
+141536,1051,012-01,2866938,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+145833,1084,012-09,2873735,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+502,1152,012-02,2871693,Waggonfabrik  Uerdingen  A.G.,N8C-AC1,1983,Pojazd cz?ciowo niskopod³ogowy,10
+145756,1066,012-10,2871535,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145754,1064,012-03,2862843,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141567,1174,012-11,2869276,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd cz?ciowo niskopod³ogowy,10
+141539,1054,012-04,2875816,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+141566,1173,012-12,2875500,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd cz?ciowo niskopod³ogowy,10
+145832,1083,012-05,2864482,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+
+145831,1082,012-07,2869835,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145828,1079,012-13,2867241,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145746,1061,012-15,2870526,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145832,1083,012-05,2864483,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141568,1175,012-14,2869605,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd czêœciowo niskopod³ogowy,10
+141561,1168,012-08,2871136,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd czêœciowo niskopod³ogowy,10
+141536,1051,012-01,2866940,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+145833,1084,012-09,2873737,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+502,1152,012-02,2871695,Waggonfabrik  Uerdingen  A.G.,N8C-AC1,1983,Pojazd czêœciowo niskopod³ogowy,10
+145756,1066,012-10,2871537,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145754,1064,012-03,2862845,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141567,1174,012-11,2869278,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd czêœciowo niskopod³ogowy,10
+141539,1054,012-04,2875818,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+141566,1173,012-12,2875502,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd czêœciowo niskopod³ogowy,10
+145832,1083,012-05,2864484,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145828,1079,012-13,2867242,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145831,1082,012-07,2869836,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141568,1175,012-14,2869606,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd czêœciowo niskopod³ogowy,10
+141561,1168,012-08,2871137,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd czêœciowo niskopod³ogowy,10
+145746,1061,012-15,2870527,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145833,1084,012-09,2873738,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141536,1051,012-01,2866941,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+145756,1066,012-10,2871538,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+502,1152,012-02,2871696,Waggonfabrik  Uerdingen  A.G.,N8C-AC1,1983,Pojazd czêœciowo niskopod³ogowy,10
+141567,1174,012-11,2869279,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd czêœciowo niskopod³ogowy,10
+145754,1064,012-03,2862846,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141539,1054,012-04,2875819,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+141566,1173,012-12,2875503,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd czêœciowo niskopod³ogowy,10
+145832,1083,012-05,2864485,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145828,1079,012-13,2867243,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145831,1082,012-07,2869837,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141568,1175,012-14,2869607,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd czêœciowo niskopod³ogowy,10
+141561,1168,012-08,2871138,Waggonfabrik  Uerdingen  A.G.,N8C-AC2,1981,Pojazd czêœciowo niskopod³ogowy,10
+145746,1061,012-15,2870528,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145833,1084,012-09,2873739,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141536,1051,012-01,2866942,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+145756,1066,012-10,2871539,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141567,1174,012-11,2869280,Waggonfabrik  Uerdingen  A.G.,N8C-MF18,1981,Pojazd czêœciowo niskopod³ogowy,10
+145754,1064,012-03,2862847,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+141539,1054,012-04,2875820,Pesa  Bydgoszcz  S.A.,128NG,2014,Pojazd niskopod³ogowy,12
+145826,1077,012-32,2862685,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145828,1079,012-13,2867244,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145832,1083,012-05,2864486,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145746,1061,012-15,2870529,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145831,1082,012-07,2869838,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145741,1056,012-36,2878265,Pesa  Bydgoszcz  S.A.,128NG,2019,Pojazd niskopod³ogowy,12
+145826,1077,012-32,2862686,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12
+145833,1084,012-09,2873740,Pesa  Bydgoszcz  S.A.,128NG,2020,Pojazd niskopod³ogowy,12

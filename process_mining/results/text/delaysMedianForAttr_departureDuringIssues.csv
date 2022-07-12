@@ -1,0 +1,3 @@
+departureDuringIssues,medianDelayAll,medianDelayRushHour,medianDelayLightTraffic,medianDelayWeekend,medianDelayWeekday
+false,128.0,149,121,116.0,131.0
+true,285,359.5,210,2922.5,277

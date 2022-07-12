@@ -1,0 +1,4 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+files.cloudgdansk.pl	0	0	1650058270	31536000

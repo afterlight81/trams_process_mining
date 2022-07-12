@@ -1,0 +1,98 @@
+stopName,medianDelayAll,medianDelayRushHour,medianDelayLightTraffic,medianDelayWeekend,medianDelayWeekday
+Lostowice Swietokrzyska,242.5,166.5,271.5,154,243
+Plocka,164.0,202.5,145.0,120,177
+Przemyska,114.5,143.0,98.0,76,124
+Wilanowska,165.0,188.0,158.5,127,171
+Cebertowicza,145.5,151.5,143.5,92,158
+Cieszynskiego,162.5,184.5,154.5,110,182
+Sikorskiego,178,204,161.0,127,192.5
+Chalubinskiego,168,194,157.0,107,182.0
+Odrzanska,139.0,156,124,83.0,154.0
+Pohulanka,164,179.0,149,101,176.0
+Srodmiescie SKM,212.5,289,192,167.0,223.5
+Brama Wyzynna,179,207,167.0,133.5,186
+Dworzec Glowny,178,215,170.0,166,181.0
+Brama Oliwska,162,190,148.0,147.0,164
+Chodowieckiego,142,166.0,127,111.5,144
+Uniwersytet Medyczny,161,184,151.0,153,161.5
+Traugutta,156,179,142.0,122.5,162
+Opera Baltycka,142,164.0,133,125.0,143
+Wyspianskiego,138.0,152.5,133.5,132.5,140.5
+Reja,121.0,139.5,117.0,115.5,121.0
+Mickiewicza,148.0,177.0,139.0,147.0,148.0
+Plac Komorowskiego,152.0,168,143,152.5,152.0
+Legionow,145.0,161,139,129.0,147.0
+Bajana,120.5,137,115,116.5,122.5
+Zwirki i Wigury,114.5,128.5,110.0,110.0,116.5
+Jana Pawla II,112.0,119.0,107.0,104.5,114.0
+Startowa,110.0,116,107,101.5,113.0
+Zaspa,120.0,130.0,117.5,108.0,122.5
+Kolobrzeska,129.0,132,128,126.0,130.5
+Bora-Komorowskiego,141.0,161.5,137.0,137.0,143.0
+Czerwony Dwor,110.0,115,106,100.5,113.0
+Piastowska,131.0,144.0,126.0,110.5,136.0
+Pomorska,132.0,149.5,127.5,106.0,137.0
+Gospody,96.5,139.0,80.5,114.0,93.0
+Pomorska - Osiedle,72,122,62.0,60,74.5
+Subislawa,80,115.0,68,61,82.0
+Opacka,82,112,77.0,70,84.5
+Oliwa,183.0,301,152,138.5,205.5
+Strzyza PKM,102,130.5,89,88.0,104
+Zajezdnia,92,103.5,86,86,93.0
+Zamenhofa,99,111.5,91,94,100.5
+Wojska Polskiego,117,137.5,111,91,120.0
+Galeria Baltycka,104,132.0,89,99,104.0
+Klonowa,100,122,91.0,100,100.5
+Jaskowa Dolina,123,138.5,115,89,125.5
+Miszewskiego,119,147.5,103,92,122.0
+Politechnika,121,144,109.5,102,123.0
+Stogi,75.5,86,68,52,80
+Zimna,101.0,116.5,91.5,72,106
+Ugory eMOCja,87.0,100.5,75.0,67,93
+Kaczence,94.0,114,83,73,100
+Sucharskiego,102.0,131.0,93.5,85,107
+Lenartowicza,102.5,121.0,96.0,77,107
+Przerobka,101.5,122.0,96.5,80,108
+Gleboka,112.0,131,103,89,116
+Brama Zulawska,124.5,135,117,118,128
+Akademia Muzyczna,130.0,152,120,103,137
+Chmielna,167.0,188,157,149,177
+Zabi Kruk,157.0,175,144,128,164
+Okopowa,164.5,179,154,130,170
+Plac Solidarnosci,113.0,126.5,110.0,122,112
+Stocznia SKM,79.0,89.0,77.0,102,77
+Stocznia Polnocna,77.0,87.5,73.5,87,76
+Twarda,82.0,88.0,75.5,87,80
+Kliniczna,111.5,114,109,122,110
+Osiedle Wejhera,106,119.5,104,94,108.0
+Helska,43,61,38.0,61,42.5
+Jelitkowo,106,542.0,62,109,103.5
+Stogi Plaza,362,305,364.0,481,361.5
+Lawendowe Wzgorze,90,780.0,44,22,111.0
+Ujescisko,81,104.5,78,96,81.0
+Zabornia,129,147.5,120,162,124.5
+Stolema,99,142.5,85,141,93.0
+Labedzia,115,145.0,110,125,113.0
+Krolewskie Wzgorze,145,168,134.0,147,143.5
+Migowo,150,176,139.0,157,148.5
+Budapesztanska,117,138,102.5,135,109.0
+Belgradzka,145,191,134.5,194,140.0
+Warnenska,152,166,139.5,176,150.0
+Piekarnicza,118,149,112.0,161,115.0
+Siedlce,162,184.5,150,175,159.5
+Skrajna,166,196.5,154,181,164.0
+Zakopianska,160,189.0,149,172,155.5
+Ciasna,187,218.5,176,206,185.0
+Paska,181,216.5,166,203,179.5
+Powstancow Warszawskich,206,248.0,185,217,202.0
+Hucisko,225,269,212.0,231,224.0
+Uniwersytet Gdanski,113,149,100.0,111,114.5
+Bazynskiego,118,163,103.5,119,118.0
+Tetmajera,104,149,91.5,104,104.5
+Derdowskiego,116,160.5,99,108,117.0
+Obroncow Westerplatte,116,156.0,101,116,116.0
+Rozlogi,113,112.5,117,43,144.5
+Wezel Groddecka,166.0,169.0,143.5,-,166.0
+Urzad Miejski,152.5,158,135,-,152.5
+Dworzec PKS,121.0,126,83,-,121.0
+Chelm Witosa,244,-,244,-,244

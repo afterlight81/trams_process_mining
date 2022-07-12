@@ -1,0 +1,5 @@
+* 0-1,3-23 * * * ( python3 /root/process_mining/trips_tracing/updateEventLog.py >> /root/process_mining/logs/`date +\%d.\%m.\%Y`-eventLog.log 2>&1 )
+* 0-1,3-23 * * * ( sleep 20 ; python3 /root/process_mining/trips_tracing/updateEventLog.py >> /root/process_mining/logs/`date +\%d.\%m.\%Y`-eventLog.log 2>&1 )
+* 0-1,3-23 * * * ( sleep 40 ; python3 /root/process_mining/trips_tracing/updateEventLog.py >> /root/process_mining/logs/`date +\%d.\%m.\%Y`-eventLog.log 2>&1 )
+55 2 * * * ( /bin/bash /root/process_mining/trips_tracing/downloadDailyFiles.sh >> /root/process_mining/logs/`date +\%d.\%m.\%Y`-dailyDownload.log 2>&1 )
+*/10 * * * * ( /bin/bash /root/process_mining/announcements/download_announcements.sh >> /root/process_mining/logs/`date +\%d.\%m.\%Y`-announcements.log 2>&1 )

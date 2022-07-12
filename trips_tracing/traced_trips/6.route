@@ -1,0 +1,4 @@
+{"variants": [{"id":"R6T52","routeId":6,"tripId":52,"tripHeadsign":"Jelitkowo(201) - Łostowice Świętokrzyska(2231)","tripShortName":"52","directionId":2,"activationDate":"2022-04-09","type":"MAIN"},
+{"id":"R6T22","routeId":6,"tripId":22,"tripHeadsign":"Jelitkowo(201) - Zajezdnia Wrzeszcz(291)","tripShortName":"22","directionId":2,"activationDate":"2022-04-09","type":"SIDE"},
+{"id":"R6T32","routeId":6,"tripId":32,"tripHeadsign":"Zajezdnia Wrzeszcz(291) - Łostowice Świętokrzyska(2231)","tripShortName":"32","directionId":2,"activationDate":"2022-04-09","type":"SIDE"},
+{"id":"R6T72","routeId":6,"tripId":72,"tripHeadsign":"Zajezdnia Wrzeszcz(291) - Chełm Witosa(2219)","tripShortName":"72","directionId":2,"activationDate":"2022-04-09","type":"SIDE"}]}

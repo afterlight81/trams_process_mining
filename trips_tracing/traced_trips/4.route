@@ -1,0 +1,4 @@
+{"variants": [{"id":"R4T12","routeId":4,"tripId":12,"tripHeadsign":"Łostowice Świętokrzyska(2231) - Oliwa","tripShortName":"12","directionId":2,"activationDate":"2022-04-09","type":"SIDE"},
+{"id":"R4T42","routeId":4,"tripId":42,"tripHeadsign":"Łostowice Świętokrzyska(2231) - Jelitkowo","tripShortName":"42","directionId":2,"activationDate":"2022-04-09","type":"MAIN"},
+{"id":"R4T22","routeId":4,"tripId":22,"tripHeadsign":"Łostowice(2231) - Zajezdnia Wrzeszcz(291) przez Zaspę","tripShortName":"22","directionId":2,"activationDate":"2022-04-09","type":"SIDE"},
+{"id":"R4T32","routeId":4,"tripId":32,"tripHeadsign":"Łostowice(2231) - Zajezdnia Wrzeszcz(691) przez Zaspę","tripShortName":"32","directionId":2,"activationDate":"2022-04-09","type":"SIDE"}]}

@@ -1,0 +1,1584 @@
+--2022-05-12 00:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-00-01.json’
+
+     0K                                                       100% 9.10M=0s
+
+2022-05-12 00:00:01 (9.10 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-00-01.json’ saved [60/60]
+
+--2022-05-12 00:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-10-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 00:10:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-10-01.json’ saved [60/60]
+
+--2022-05-12 00:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-20-01.json’
+
+     0K                                                       100% 11.4M=0s
+
+2022-05-12 00:20:01 (11.4 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-20-01.json’ saved [60/60]
+
+--2022-05-12 00:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-30-01.json’
+
+     0K                                                       100% 12.5M=0s
+
+2022-05-12 00:30:02 (12.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-30-01.json’ saved [60/60]
+
+--2022-05-12 00:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-40-01.json’
+
+     0K                                                       100% 12.1M=0s
+
+2022-05-12 00:40:01 (12.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-40-01.json’ saved [60/60]
+
+--2022-05-12 00:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-50-01.json’
+
+     0K                                                       100% 9.91M=0s
+
+2022-05-12 00:50:02 (9.91 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-00-50-01.json’ saved [60/60]
+
+--2022-05-12 01:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-00-01.json’
+
+     0K                                                       100% 7.89M=0s
+
+2022-05-12 01:00:02 (7.89 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-00-01.json’ saved [60/60]
+
+--2022-05-12 01:10:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-10-02.json’
+
+     0K                                                       100% 11.6M=0s
+
+2022-05-12 01:10:02 (11.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-10-02.json’ saved [60/60]
+
+--2022-05-12 01:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-20-01.json’
+
+     0K                                                       100% 9.33M=0s
+
+2022-05-12 01:20:02 (9.33 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-20-01.json’ saved [60/60]
+
+--2022-05-12 01:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-30-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 01:30:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-30-01.json’ saved [60/60]
+
+--2022-05-12 01:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-40-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 01:40:02 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-40-01.json’ saved [60/60]
+
+--2022-05-12 01:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-50-01.json’
+
+     0K                                                       100% 12.0M=0s
+
+2022-05-12 01:50:02 (12.0 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-01-50-01.json’ saved [60/60]
+
+--2022-05-12 02:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-00-01.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 02:00:02 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-00-01.json’ saved [60/60]
+
+--2022-05-12 02:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-10-01.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 02:10:01 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-10-01.json’ saved [60/60]
+
+--2022-05-12 02:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-20-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 02:20:02 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-20-01.json’ saved [60/60]
+
+--2022-05-12 02:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-30-01.json’
+
+     0K                                                       100% 10.9M=0s
+
+2022-05-12 02:30:01 (10.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-30-01.json’ saved [60/60]
+
+--2022-05-12 02:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-40-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 02:40:02 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-40-01.json’ saved [60/60]
+
+--2022-05-12 02:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-50-01.json’
+
+     0K                                                       100% 10.4M=0s
+
+2022-05-12 02:50:01 (10.4 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-02-50-01.json’ saved [60/60]
+
+--2022-05-12 03:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-00-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 03:00:02 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-00-01.json’ saved [60/60]
+
+--2022-05-12 03:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-10-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 03:10:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-10-01.json’ saved [60/60]
+
+--2022-05-12 03:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-20-01.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 03:20:02 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-20-01.json’ saved [60/60]
+
+--2022-05-12 03:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-30-01.json’
+
+     0K                                                       100% 12.6M=0s
+
+2022-05-12 03:30:01 (12.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-30-01.json’ saved [60/60]
+
+--2022-05-12 03:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-40-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 03:40:02 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-40-01.json’ saved [60/60]
+
+--2022-05-12 03:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-50-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 03:50:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-03-50-01.json’ saved [60/60]
+
+--2022-05-12 04:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-00-01.json’
+
+     0K                                                       100% 11.6M=0s
+
+2022-05-12 04:00:02 (11.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-00-01.json’ saved [60/60]
+
+--2022-05-12 04:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-10-01.json’
+
+     0K                                                       100% 11.5M=0s
+
+2022-05-12 04:10:02 (11.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-10-01.json’ saved [60/60]
+
+--2022-05-12 04:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-20-01.json’
+
+     0K                                                       100% 11.6M=0s
+
+2022-05-12 04:20:02 (11.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-20-01.json’ saved [60/60]
+
+--2022-05-12 04:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-30-01.json’
+
+     0K                                                       100% 12.1M=0s
+
+2022-05-12 04:30:01 (12.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-30-01.json’ saved [60/60]
+
+--2022-05-12 04:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-40-01.json’
+
+     0K                                                       100% 11.5M=0s
+
+2022-05-12 04:40:01 (11.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-40-01.json’ saved [60/60]
+
+--2022-05-12 04:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-50-01.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 04:50:02 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-04-50-01.json’ saved [60/60]
+
+--2022-05-12 05:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-00-01.json’
+
+     0K                                                       100% 12.4M=0s
+
+2022-05-12 05:00:02 (12.4 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-00-01.json’ saved [60/60]
+
+--2022-05-12 05:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-10-01.json’
+
+     0K                                                       100% 9.99M=0s
+
+2022-05-12 05:10:02 (9.99 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-10-01.json’ saved [60/60]
+
+--2022-05-12 05:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-20-01.json’
+
+     0K                                                       100% 11.5M=0s
+
+2022-05-12 05:20:02 (11.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-20-01.json’ saved [60/60]
+
+--2022-05-12 05:30:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-30-02.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 05:30:02 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-30-02.json’ saved [60/60]
+
+--2022-05-12 05:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-40-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 05:40:02 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-40-01.json’ saved [60/60]
+
+--2022-05-12 05:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-50-01.json’
+
+     0K                                                       100% 12.0M=0s
+
+2022-05-12 05:50:02 (12.0 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-05-50-01.json’ saved [60/60]
+
+--2022-05-12 06:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-00-01.json’
+
+     0K                                                       100% 11.2M=0s
+
+2022-05-12 06:00:02 (11.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-00-01.json’ saved [60/60]
+
+--2022-05-12 06:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-10-01.json’
+
+     0K                                                       100% 11.2M=0s
+
+2022-05-12 06:10:01 (11.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-10-01.json’ saved [60/60]
+
+--2022-05-12 06:20:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-20-00.json’
+
+     0K                                                       100% 12.8M=0s
+
+2022-05-12 06:20:00 (12.8 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-20-00.json’ saved [60/60]
+
+--2022-05-12 06:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-30-01.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 06:30:01 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-30-01.json’ saved [60/60]
+
+--2022-05-12 06:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 459 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-40-01.json’
+
+     0K                                                       100% 88.8M=0s
+
+2022-05-12 06:40:02 (88.8 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-40-01.json’ saved [459/459]
+
+--2022-05-12 06:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 459 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-50-01.json’
+
+     0K                                                       100% 86.6M=0s
+
+2022-05-12 06:50:02 (86.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-06-50-01.json’ saved [459/459]
+
+--2022-05-12 07:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 670 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-00-01.json’
+
+     0K                                                       100%  140M=0s
+
+2022-05-12 07:00:02 (140 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-00-01.json’ saved [670/670]
+
+--2022-05-12 07:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 670 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-10-01.json’
+
+     0K                                                       100%  130M=0s
+
+2022-05-12 07:10:02 (130 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-10-01.json’ saved [670/670]
+
+--2022-05-12 07:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-20-01.json’
+
+     0K                                                       100% 12.6M=0s
+
+2022-05-12 07:20:01 (12.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-20-01.json’ saved [60/60]
+
+--2022-05-12 07:30:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-30-00.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 07:30:01 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-30-00.json’ saved [60/60]
+
+--2022-05-12 07:40:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-40-00.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 07:40:00 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-40-00.json’ saved [60/60]
+
+--2022-05-12 07:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-50-00.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 07:50:00 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-07-50-00.json’ saved [60/60]
+
+--2022-05-12 08:00:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-00-00.json’
+
+     0K                                                       100% 11.2M=0s
+
+2022-05-12 08:00:00 (11.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-00-00.json’ saved [60/60]
+
+--2022-05-12 08:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-10-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 08:10:02 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-10-01.json’ saved [60/60]
+
+--2022-05-12 08:20:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-20-02.json’
+
+     0K                                                       100% 10.7M=0s
+
+2022-05-12 08:20:02 (10.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-20-02.json’ saved [60/60]
+
+--2022-05-12 08:30:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-30-02.json’
+
+     0K                                                       100% 12.9M=0s
+
+2022-05-12 08:30:02 (12.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-30-02.json’ saved [60/60]
+
+--2022-05-12 08:40:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-40-00.json’
+
+     0K                                                       100% 10.9M=0s
+
+2022-05-12 08:40:01 (10.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-40-00.json’ saved [60/60]
+
+--2022-05-12 08:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-50-01.json’
+
+     0K                                                       100% 11.5M=0s
+
+2022-05-12 08:50:01 (11.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-08-50-01.json’ saved [60/60]
+
+--2022-05-12 09:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-00-01.json’
+
+     0K                                                       100% 12.7M=0s
+
+2022-05-12 09:00:02 (12.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-00-01.json’ saved [60/60]
+
+--2022-05-12 09:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-10-01.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 09:10:01 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-10-01.json’ saved [60/60]
+
+--2022-05-12 09:20:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-20-00.json’
+
+     0K                                                       100% 12.5M=0s
+
+2022-05-12 09:20:00 (12.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-20-00.json’ saved [60/60]
+
+--2022-05-12 09:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-30-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 09:30:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-30-01.json’ saved [60/60]
+
+--2022-05-12 09:40:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-40-00.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 09:40:00 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-40-00.json’ saved [60/60]
+
+--2022-05-12 09:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-50-01.json’
+
+     0K                                                       100% 11.6M=0s
+
+2022-05-12 09:50:02 (11.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-09-50-01.json’ saved [60/60]
+
+--2022-05-12 10:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-00-01.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 10:00:02 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-00-01.json’ saved [60/60]
+
+--2022-05-12 10:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-10-01.json’
+
+     0K                                                       100% 12.6M=0s
+
+2022-05-12 10:10:02 (12.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-10-01.json’ saved [60/60]
+
+--2022-05-12 10:20:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-20-00.json’
+
+     0K                                                       100% 12.6M=0s
+
+2022-05-12 10:20:00 (12.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-20-00.json’ saved [60/60]
+
+--2022-05-12 10:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-30-01.json’
+
+     0K                                                       100% 11.4M=0s
+
+2022-05-12 10:30:01 (11.4 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-30-01.json’ saved [60/60]
+
+--2022-05-12 10:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-40-01.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 10:40:02 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-40-01.json’ saved [60/60]
+
+--2022-05-12 10:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-50-00.json’
+
+     0K                                                       100% 10.9M=0s
+
+2022-05-12 10:50:00 (10.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-10-50-00.json’ saved [60/60]
+
+--2022-05-12 11:00:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-00-00.json’
+
+     0K                                                       100% 12.4M=0s
+
+2022-05-12 11:00:01 (12.4 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-00-00.json’ saved [60/60]
+
+--2022-05-12 11:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-10-01.json’
+
+     0K                                                       100% 8.29M=0s
+
+2022-05-12 11:10:01 (8.29 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-10-01.json’ saved [60/60]
+
+--2022-05-12 11:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-20-01.json’
+
+     0K                                                       100% 12.0M=0s
+
+2022-05-12 11:20:02 (12.0 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-20-01.json’ saved [60/60]
+
+--2022-05-12 11:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-30-01.json’
+
+     0K                                                       100% 11.6M=0s
+
+2022-05-12 11:30:02 (11.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-30-01.json’ saved [60/60]
+
+--2022-05-12 11:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-40-01.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 11:40:02 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-40-01.json’ saved [60/60]
+
+--2022-05-12 11:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-50-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 11:50:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-11-50-01.json’ saved [60/60]
+
+--2022-05-12 12:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-00-01.json’
+
+     0K                                                       100% 12.9M=0s
+
+2022-05-12 12:00:02 (12.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-00-01.json’ saved [60/60]
+
+--2022-05-12 12:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-10-01.json’
+
+     0K                                                       100% 12.9M=0s
+
+2022-05-12 12:10:01 (12.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-10-01.json’ saved [60/60]
+
+--2022-05-12 12:20:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-20-00.json’
+
+     0K                                                       100% 11.5M=0s
+
+2022-05-12 12:20:00 (11.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-20-00.json’ saved [60/60]
+
+--2022-05-12 12:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-30-01.json’
+
+     0K                                                       100% 85.7M=0s
+
+2022-05-12 12:30:01 (85.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-30-01.json’ saved [441/441]
+
+--2022-05-12 12:40:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-40-00.json’
+
+     0K                                                       100% 79.5M=0s
+
+2022-05-12 12:40:00 (79.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-40-00.json’ saved [441/441]
+
+--2022-05-12 12:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-50-00.json’
+
+     0K                                                       100% 76.6M=0s
+
+2022-05-12 12:50:00 (76.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-12-50-00.json’ saved [441/441]
+
+--2022-05-12 13:00:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-00-00.json’
+
+     0K                                                       100% 77.7M=0s
+
+2022-05-12 13:00:01 (77.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-00-00.json’ saved [441/441]
+
+--2022-05-12 13:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-10-01.json’
+
+     0K                                                       100% 12.1M=0s
+
+2022-05-12 13:10:02 (12.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-10-01.json’ saved [60/60]
+
+--2022-05-12 13:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-20-01.json’
+
+     0K                                                       100% 87.7M=0s
+
+2022-05-12 13:20:02 (87.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-20-01.json’ saved [441/441]
+
+--2022-05-12 13:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-30-01.json’
+
+     0K                                                       100% 88.9M=0s
+
+2022-05-12 13:30:01 (88.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-30-01.json’ saved [441/441]
+
+--2022-05-12 13:40:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-40-00.json’
+
+     0K                                                       100% 92.9M=0s
+
+2022-05-12 13:40:01 (92.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-40-00.json’ saved [441/441]
+
+--2022-05-12 13:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 441 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-50-00.json’
+
+     0K                                                       100% 81.5M=0s
+
+2022-05-12 13:50:00 (81.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-13-50-00.json’ saved [441/441]
+
+--2022-05-12 14:00:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-00-02.json’
+
+     0K                                                       100% 11.8M=0s
+
+2022-05-12 14:00:02 (11.8 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-00-02.json’ saved [60/60]
+
+--2022-05-12 14:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-10-01.json’
+
+     0K                                                       100% 9.51M=0s
+
+2022-05-12 14:10:02 (9.51 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-10-01.json’ saved [60/60]
+
+--2022-05-12 14:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-20-01.json’
+
+     0K                                                       100% 12.5M=0s
+
+2022-05-12 14:20:01 (12.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-20-01.json’ saved [60/60]
+
+--2022-05-12 14:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-30-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 14:30:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-30-01.json’ saved [60/60]
+
+--2022-05-12 14:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-40-01.json’
+
+     0K                                                       100% 12.5M=0s
+
+2022-05-12 14:40:06 (12.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-40-01.json’ saved [60/60]
+
+--2022-05-12 14:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-50-01.json’
+
+     0K                                                       100% 12.7M=0s
+
+2022-05-12 14:50:03 (12.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-14-50-01.json’ saved [60/60]
+
+--2022-05-12 15:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-00-01.json’
+
+     0K                                                       100% 12.7M=0s
+
+2022-05-12 15:00:02 (12.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-00-01.json’ saved [60/60]
+
+--2022-05-12 15:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-10-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 15:10:01 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-10-01.json’ saved [60/60]
+
+--2022-05-12 15:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-20-01.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 15:20:02 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-20-01.json’ saved [60/60]
+
+--2022-05-12 15:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-30-01.json’
+
+     0K                                                       100% 12.1M=0s
+
+2022-05-12 15:30:01 (12.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-30-01.json’ saved [60/60]
+
+--2022-05-12 15:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-40-01.json’
+
+     0K                                                       100% 12.7M=0s
+
+2022-05-12 15:40:02 (12.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-40-01.json’ saved [60/60]
+
+--2022-05-12 15:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-50-01.json’
+
+     0K                                                       100% 12.9M=0s
+
+2022-05-12 15:50:02 (12.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-15-50-01.json’ saved [60/60]
+
+--2022-05-12 16:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-00-01.json’
+
+     0K                                                       100% 13.1M=0s
+
+2022-05-12 16:00:02 (13.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-00-01.json’ saved [60/60]
+
+--2022-05-12 16:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-10-01.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 16:10:01 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-10-01.json’ saved [60/60]
+
+--2022-05-12 16:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-20-01.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 16:20:02 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-20-01.json’ saved [60/60]
+
+--2022-05-12 16:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-30-01.json’
+
+     0K                                                       100% 10.7M=0s
+
+2022-05-12 16:30:01 (10.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-30-01.json’ saved [60/60]
+
+--2022-05-12 16:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-40-01.json’
+
+     0K                                                       100% 12.6M=0s
+
+2022-05-12 16:40:02 (12.6 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-40-01.json’ saved [60/60]
+
+--2022-05-12 16:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-50-01.json’
+
+     0K                                                       100% 12.8M=0s
+
+2022-05-12 16:50:02 (12.8 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-16-50-01.json’ saved [60/60]
+
+--2022-05-12 17:00:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-00-02.json’
+
+     0K                                                       100% 12.3M=0s
+
+2022-05-12 17:00:02 (12.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-00-02.json’ saved [60/60]
+
+--2022-05-12 17:10:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-10-02.json’
+
+     0K                                                       100% 9.87M=0s
+
+2022-05-12 17:10:02 (9.87 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-10-02.json’ saved [60/60]
+
+--2022-05-12 17:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-20-01.json’
+
+     0K                                                       100% 11.8M=0s
+
+2022-05-12 17:20:01 (11.8 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-20-01.json’ saved [60/60]
+
+--2022-05-12 17:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-30-01.json’
+
+     0K                                                       100% 13.0M=0s
+
+2022-05-12 17:30:02 (13.0 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-30-01.json’ saved [60/60]
+
+--2022-05-12 17:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-40-01.json’
+
+     0K                                                       100% 11.1M=0s
+
+2022-05-12 17:40:02 (11.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-40-01.json’ saved [60/60]
+
+--2022-05-12 17:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-50-01.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 17:50:01 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-17-50-01.json’ saved [60/60]
+
+--2022-05-12 18:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-00-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 18:00:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-00-01.json’ saved [60/60]
+
+--2022-05-12 18:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-10-01.json’
+
+     0K                                                       100% 12.0M=0s
+
+2022-05-12 18:10:01 (12.0 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-10-01.json’ saved [60/60]
+
+--2022-05-12 18:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-20-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 18:20:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-20-01.json’ saved [60/60]
+
+--2022-05-12 18:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-30-01.json’
+
+     0K                                                       100% 12.0M=0s
+
+2022-05-12 18:30:01 (12.0 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-30-01.json’ saved [60/60]
+
+--2022-05-12 18:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-40-01.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 18:40:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-40-01.json’ saved [60/60]
+
+--2022-05-12 18:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-50-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 18:50:01 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-18-50-01.json’ saved [60/60]
+
+--2022-05-12 19:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-00-01.json’
+
+     0K                                                       100% 12.1M=0s
+
+2022-05-12 19:00:02 (12.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-00-01.json’ saved [60/60]
+
+--2022-05-12 19:10:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-10-00.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 19:10:01 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-10-00.json’ saved [60/60]
+
+--2022-05-12 19:20:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-20-00.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 19:20:01 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-20-00.json’ saved [60/60]
+
+--2022-05-12 19:30:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-30-00.json’
+
+     0K                                                       100% 11.9M=0s
+
+2022-05-12 19:30:01 (11.9 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-30-00.json’ saved [60/60]
+
+--2022-05-12 19:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-40-01.json’
+
+     0K                                                       100%  156M=0s
+
+2022-05-12 19:40:01 (156 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-40-01.json’ saved [799/799]
+
+--2022-05-12 19:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-50-01.json’
+
+     0K                                                       100%  149M=0s
+
+2022-05-12 19:50:01 (149 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-19-50-01.json’ saved [799/799]
+
+--2022-05-12 20:00:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-00-00.json’
+
+     0K                                                       100%  161M=0s
+
+2022-05-12 20:00:00 (161 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-00-00.json’ saved [799/799]
+
+--2022-05-12 20:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-10-01.json’
+
+     0K                                                       100%  158M=0s
+
+2022-05-12 20:10:02 (158 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-10-01.json’ saved [799/799]
+
+--2022-05-12 20:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-20-01.json’
+
+     0K                                                       100%  159M=0s
+
+2022-05-12 20:20:02 (159 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-20-01.json’ saved [799/799]
+
+--2022-05-12 20:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-30-01.json’
+
+     0K                                                       100% 11.3M=0s
+
+2022-05-12 20:30:02 (11.3 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-30-01.json’ saved [60/60]
+
+--2022-05-12 20:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-40-01.json’
+
+     0K                                                       100% 11.7M=0s
+
+2022-05-12 20:40:02 (11.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-40-01.json’ saved [60/60]
+
+--2022-05-12 20:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-50-00.json’
+
+     0K                                                       100%  160M=0s
+
+2022-05-12 20:50:00 (160 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-20-50-00.json’ saved [799/799]
+
+--2022-05-12 21:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-00-01.json’
+
+     0K                                                       100%  158M=0s
+
+2022-05-12 21:00:01 (158 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-00-01.json’ saved [799/799]
+
+--2022-05-12 21:10:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 799 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-10-01.json’
+
+     0K                                                       100%  169M=0s
+
+2022-05-12 21:10:02 (169 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-10-01.json’ saved [799/799]
+
+--2022-05-12 21:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1121 (1.1K) [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-20-01.json’
+
+     0K .                                                     100%  211M=0s
+
+2022-05-12 21:20:01 (211 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-20-01.json’ saved [1121/1121]
+
+--2022-05-12 21:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1176 (1.1K) [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-30-01.json’
+
+     0K .                                                     100%  181M=0s
+
+2022-05-12 21:30:01 (181 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-30-01.json’ saved [1176/1176]
+
+--2022-05-12 21:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1176 (1.1K) [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-40-01.json’
+
+     0K .                                                     100%  175M=0s
+
+2022-05-12 21:40:02 (175 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-40-01.json’ saved [1176/1176]
+
+--2022-05-12 21:50:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1176 (1.1K) [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-50-01.json’
+
+     0K .                                                     100%  214M=0s
+
+2022-05-12 21:50:01 (214 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-21-50-01.json’ saved [1176/1176]
+
+--2022-05-12 22:00:02--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-00-02.json’
+
+     0K                                                       100% 10.4M=0s
+
+2022-05-12 22:00:02 (10.4 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-00-02.json’ saved [60/60]
+
+--2022-05-12 22:10:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-10-00.json’
+
+     0K                                                       100% 12.1M=0s
+
+2022-05-12 22:10:00 (12.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-10-00.json’ saved [60/60]
+
+--2022-05-12 22:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-20-01.json’
+
+     0K                                                       100% 11.8M=0s
+
+2022-05-12 22:20:02 (11.8 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-20-01.json’ saved [60/60]
+
+--2022-05-12 22:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-30-01.json’
+
+     0K                                                       100% 12.5M=0s
+
+2022-05-12 22:30:02 (12.5 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-30-01.json’ saved [60/60]
+
+--2022-05-12 22:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-40-01.json’
+
+     0K                                                       100% 10.7M=0s
+
+2022-05-12 22:40:02 (10.7 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-40-01.json’ saved [60/60]
+
+--2022-05-12 22:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 540 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-50-00.json’
+
+     0K                                                       100%  107M=0s
+
+2022-05-12 22:50:00 (107 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-22-50-00.json’ saved [540/540]
+
+--2022-05-12 23:00:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-00-01.json’
+
+     0K                                                       100%  103M=0s
+
+2022-05-12 23:00:02 (103 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-00-01.json’ saved [539/539]
+
+--2022-05-12 23:10:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-10-00.json’
+
+     0K                                                       100%  107M=0s
+
+2022-05-12 23:10:00 (107 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-10-00.json’ saved [539/539]
+
+--2022-05-12 23:20:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-20-01.json’
+
+     0K                                                       100%  103M=0s
+
+2022-05-12 23:20:02 (103 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-20-01.json’ saved [539/539]
+
+--2022-05-12 23:30:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539 [application/json]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-30-01.json’
+
+     0K                                                       100% 82.2M=0s
+
+2022-05-12 23:30:02 (82.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-30-01.json’ saved [539/539]
+
+--2022-05-12 23:40:01--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-40-01.json’
+
+     0K                                                       100% 11.1M=0s
+
+2022-05-12 23:40:02 (11.1 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-40-01.json’ saved [60/60]
+
+--2022-05-12 23:50:00--  https://files.cloudgdansk.pl/d/otwarte-dane/ztm/bsk.json
+Resolving files.cloudgdansk.pl (files.cloudgdansk.pl)... 153.19.238.147
+Connecting to files.cloudgdansk.pl (files.cloudgdansk.pl)|153.19.238.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60 [text/plain]
+Saving to: ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-50-00.json’
+
+     0K                                                       100% 12.2M=0s
+
+2022-05-12 23:50:00 (12.2 MB/s) - ‘/root/process_mining/announcements/data/12_05_2022/ann12.05.2022-23-50-00.json’ saved [60/60]
+
